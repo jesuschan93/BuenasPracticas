@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\BLUE OCEAN\\BuenasPracticas\\BuenasPracticas\\AliExpress.Services.Entities\\AliExpress.Services.Entities.csproj": {}
+  },
+  "projects": {
+    "C:\\BLUE OCEAN\\BuenasPracticas\\BuenasPracticas\\AliExpress.Services.Entities\\AliExpress.Services.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\BLUE OCEAN\\BuenasPracticas\\BuenasPracticas\\AliExpress.Services.Entities\\AliExpress.Services.Entities.csproj",
+        "projectName": "AliExpress.Services.Entities",
+        "projectPath": "C:\\BLUE OCEAN\\BuenasPracticas\\BuenasPracticas\\AliExpress.Services.Entities\\AliExpress.Services.Entities.csproj",
+        "packagesPath": "C:\\Users\\jesus.chan\\.nuget\\packages\\",
+        "outputPath": "C:\\BLUE OCEAN\\BuenasPracticas\\BuenasPracticas\\AliExpress.Services.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jesus.chan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://bot-apps-dev01/Nugets/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

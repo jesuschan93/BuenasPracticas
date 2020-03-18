@@ -1,0 +1,22 @@
+C:\BLUE OCEAN\Nueva carpeta\AliExpress.Datos\bin\Debug\netstandard2.0\AliExpress.Datos.deps.json
+C:\BLUE OCEAN\Nueva carpeta\AliExpress.Datos\bin\Debug\netstandard2.0\AliExpress.Datos.dll
+C:\BLUE OCEAN\Nueva carpeta\AliExpress.Datos\bin\Debug\netstandard2.0\AliExpress.Datos.pdb
+C:\BLUE OCEAN\Nueva carpeta\AliExpress.Datos\bin\Debug\netstandard2.0\AliExpress.Entities.dll
+C:\BLUE OCEAN\Nueva carpeta\AliExpress.Datos\bin\Debug\netstandard2.0\AliExpress.Entities.pdb
+C:\BLUE OCEAN\Nueva carpeta\AliExpress.Datos\obj\Debug\netstandard2.0\AliExpress.Datos.csprojAssemblyReference.cache
+C:\BLUE OCEAN\Nueva carpeta\AliExpress.Datos\obj\Debug\netstandard2.0\AliExpress.Datos.AssemblyInfoInputs.cache
+C:\BLUE OCEAN\Nueva carpeta\AliExpress.Datos\obj\Debug\netstandard2.0\AliExpress.Datos.AssemblyInfo.cs
+C:\BLUE OCEAN\Nueva carpeta\AliExpress.Datos\obj\Debug\netstandard2.0\AliExpress.Datos.csproj.CopyComplete
+C:\BLUE OCEAN\Nueva carpeta\AliExpress.Datos\obj\Debug\netstandard2.0\AliExpress.Datos.dll
+C:\BLUE OCEAN\Nueva carpeta\AliExpress.Datos\obj\Debug\netstandard2.0\AliExpress.Datos.pdb
+C:\BLUE OCEAN\BuenasPracticas\BuenasPracticas\AliExpress.Datos\bin\Debug\netstandard2.0\AliExpress.Datos.deps.json
+C:\BLUE OCEAN\BuenasPracticas\BuenasPracticas\AliExpress.Datos\bin\Debug\netstandard2.0\AliExpress.Datos.dll
+C:\BLUE OCEAN\BuenasPracticas\BuenasPracticas\AliExpress.Datos\bin\Debug\netstandard2.0\AliExpress.Datos.pdb
+C:\BLUE OCEAN\BuenasPracticas\BuenasPracticas\AliExpress.Datos\bin\Debug\netstandard2.0\AliExpress.Entities.dll
+C:\BLUE OCEAN\BuenasPracticas\BuenasPracticas\AliExpress.Datos\bin\Debug\netstandard2.0\AliExpress.Entities.pdb
+C:\BLUE OCEAN\BuenasPracticas\BuenasPracticas\AliExpress.Datos\obj\Debug\netstandard2.0\AliExpress.Datos.csprojAssemblyReference.cache
+C:\BLUE OCEAN\BuenasPracticas\BuenasPracticas\AliExpress.Datos\obj\Debug\netstandard2.0\AliExpress.Datos.AssemblyInfoInputs.cache
+C:\BLUE OCEAN\BuenasPracticas\BuenasPracticas\AliExpress.Datos\obj\Debug\netstandard2.0\AliExpress.Datos.AssemblyInfo.cs
+C:\BLUE OCEAN\BuenasPracticas\BuenasPracticas\AliExpress.Datos\obj\Debug\netstandard2.0\AliExpress.Datos.csproj.CopyComplete
+C:\BLUE OCEAN\BuenasPracticas\BuenasPracticas\AliExpress.Datos\obj\Debug\netstandard2.0\AliExpress.Datos.dll
+C:\BLUE OCEAN\BuenasPracticas\BuenasPracticas\AliExpress.Datos\obj\Debug\netstandard2.0\AliExpress.Datos.pdb
